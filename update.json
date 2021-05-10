@@ -1,0 +1,15 @@
+{
+  "title": "New update found",
+  "message": "bug fixes and performance improvements",
+  "download": "https://www.google.com",
+  "playstore": "com.futurelightmm.mmvpn",
+  "uninstall": false,
+  "what": {
+    "model": [],
+    "version": [],
+    "all": true
+  },
+  "versionName": "1.0.1",
+  "versionCode": 230,
+  "force": true
+}
