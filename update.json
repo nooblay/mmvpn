@@ -9,7 +9,7 @@ Lunch လုပ်ထားပေးပါတယ်
 Premium တွေပျောက်ခဲ့ရင်
 Admin  ဆီဖြစ်ဖြစ် Page မှာ
 ဖြစ်ဖြစ်လာပြောပေးပါ။",
-  "download": "http://myanmartwod.xyz/MM_VPN_v1.0.3.apk",
+  "download": "https://raw.githubusercontent.com/prodevmm/PROJECTS/master/debug.apk",
   "playstore": "com.futurelightmm.mmvpn",
   "uninstall": false,
   "what": {
@@ -17,7 +17,7 @@ Admin  ဆီဖြစ်ဖြစ် Page မှာ
     "version": [],
     "all": true
   },
-  "versionName": "1.0.0",
+  "versionName": "1.0.4",
   "versionCode": 250,
   "force": false
 }
