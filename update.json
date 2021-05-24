@@ -1,15 +1,22 @@
 {
   "title": "New update found",
-  "message": "Play Store အဆင်ပြေတဲ့ဖုန်းနဲ့
-အဆင်မပြေတဲ့ ဖုန်းတွေ အတွက်
-အဆင်ပြေအောင် MM VPN 
-Version 1.0.3 ကို ထပ်ပြီး
-Lunch လုပ်ထားပေးပါတယ်
-  Play Store Upgrade လို
-Premium တွေပျောက်ခဲ့ရင်
-Admin  ဆီဖြစ်ဖြစ် Page မှာ
-ဖြစ်ဖြစ်လာပြောပေးပါ။",
-  "download": "https://raw.githubusercontent.com/prodevmm/PROJECTS/master/debug.apk",
+  "message": "New Version (1.0.4) 
+Server Upgrade အသစ်တွေနဲ့
+အဆင့်မြှင့်တင်ပေးသွားပါမယ်။
+Download က ဒေါင်းမရရင် ဒိwebsite ကဒေါင်းပါ။
+👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻
+https://www.mmvpn.site
+Notice: Version 1.0.4 
+ထွက်တာနဲ့Upgrade လုပ်ထားပေးပါ။ 
+အရင်Versionအဟောင်းများကို 
+(72) နာရီအတွင်း အသုံးပြု၍မရအောင်
+ပိတ်သိမ်းသွားပါမည်။
+မဖြစ်မနေလုပ်ထားပေးကြပါ။
+Premium Memberများ
+Premium ပျောက်သွားရင်လဲ
+လာပြောပေးပါချက်ချင်း
+ပြန်ထည့်ပေးပါ့မယ်။ ",
+  "download": "http://mmvpn.site/mmvpn.apk",
   "playstore": "com.futurelightmm.mmvpn",
   "uninstall": false,
   "what": {
@@ -17,7 +24,7 @@ Admin  ဆီဖြစ်ဖြစ် Page မှာ
     "version": [],
     "all": true
   },
-  "versionName": "1.0.0",
-  "versionCode": 230,
+  "versionName": "1.0.4",
+  "versionCode": 245,
   "force": false
 }
